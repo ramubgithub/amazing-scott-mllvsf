@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.name {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.la {
+  font-family: "Roboto";
+}
+
+.event-name {
+}
